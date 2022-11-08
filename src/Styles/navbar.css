@@ -1,0 +1,11 @@
+.links{
+    display: block;
+    padding:  0.5rem;
+    text-decoration:none ;
+    color: white;
+    
+}
+.links:focus,.links:hover{
+    color:blue;
+    transition: .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
